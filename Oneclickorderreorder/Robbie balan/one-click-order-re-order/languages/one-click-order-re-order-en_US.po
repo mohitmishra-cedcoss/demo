@@ -1,0 +1,412 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: One_Click_Order_Re_order 1.0.0\n"
+"POT-Creation-Date: 2018-09-14 10:09+0530\n"
+"PO-Revision-Date: 2018-09-14 10:09+0530\n"
+"Last-Translator: \n"
+"Language-Team: makewebbetter <webmaster@makewebbetter.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: /opt/lampp/htdocs/wordpress/wp-content/plugins/one-click-"
+"order-re-order/\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: one-click-order-re-order.php:146
+msgid "Settings"
+msgstr ""
+
+#: one-click-order-re-order.php:160
+msgid ""
+"WooCommerce is not activated. Please install WooCommerce first, to use the "
+"One Click Order Re-Order plugin !!!"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:83
+#: public/class-one-click-order-re-order-public.php:601
+msgid "Add to basket"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:84
+#: public/class-one-click-order-re-order-public.php:602
+msgid "Remove from basket"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:119
+msgid "All products of this order is no longer exist in our store."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:120
+msgid "Exclude products from this order"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:121
+msgid "Exclude products from your basket"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:122
+msgid "Exclude"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:123
+msgid "Image"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:124
+msgid "This product is out of stock, so it would be excluded from order."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:125
+msgid "Click on this checkbox to exclude this product from reordering."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:126
+msgid "Product name"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:127
+msgid "Stock"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:128
+msgid "Quantity"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:129
+msgid "Checkout"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:130
+msgid "Add to cart"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:131
+msgid "Close"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:132
+#: public/class-one-click-order-re-order-public.php:1100
+msgid "No items found."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:147
+#: public/class-one-click-order-re-order-public.php:283
+#: public/class-one-click-order-re-order-public.php:312
+msgid "Re-Order"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:171
+msgid "Place same order"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:259
+msgid "The items are added to cart from your previous order ."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:264
+msgid "Something went wrong, items couldn't added to cart "
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:295
+#: public/class-one-click-order-re-order-public.php:324
+msgid "Place Same Order"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:441
+#: public/class-one-click-order-re-order-public.php:1055
+#: public/class-one-click-order-re-order-public.php:1056
+msgid "No items found in you basket."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:495
+msgid "Successfully added to cart."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:558
+msgid ""
+"The items are added to cart from your previous order. You can place this "
+"order now."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:926
+msgid "Shopping Basket"
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:977
+msgid "Added to basket."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:980
+#: public/class-one-click-order-re-order-public.php:981
+msgid "Couldn't added to basket."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:1025
+msgid "Removed from basket."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:1028
+#: public/class-one-click-order-re-order-public.php:1029
+msgid "Couldn't removed from basket."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:1041
+#: public/class-one-click-order-re-order-public.php:1042
+msgid "Ajax nonce couldn't match."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:1047
+msgid "Please login first."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:1048
+msgid "Sorry please login first."
+msgstr ""
+
+#: public/class-one-click-order-re-order-public.php:1099
+msgid "No items found in your basket."
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:57
+msgid "Shop"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:58
+msgid "Product Detail"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:59
+msgid "Cart"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:60
+msgid "My Account"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:117
+#: admin/class-one-click-order-re-order-admin.php:118
+#: admin/class-one-click-order-re-order-admin.php:176
+msgid "One Click Order Re-Order"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:166
+#: admin/partials/one-click-order-re-order-admin-license.php:41
+msgid "Activate"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:166
+#, php-format
+msgid ""
+" the license key before %s or you may risk losing data and the plugin will "
+"also become dysfunctional."
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:196
+msgid "General Options"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:200
+msgid "License Activation"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:204
+msgid "Help"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:206
+msgid "About Us"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:224
+msgid "Save Options"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:287
+msgid "Enable/Disable Place Same Order Button:"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:296
+msgid "Enable/Disable Basket"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:304
+msgid "Basket add button text:"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:312
+msgid "Basket remove button text:"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:320
+msgid "\tUpload an icon image for basket icon:"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:328
+msgid "Enable basket feature for:"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:336
+msgid "Choose pages to show the basket icon:"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:362
+#: admin/class-one-click-order-re-order-admin.php:377
+msgid "Enable."
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:365
+#: admin/class-one-click-order-re-order-admin.php:379
+msgid "Disable."
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:414
+msgid "Basket icon"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:418
+msgid "Upload"
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:431
+msgid "Select user roles to show them basket feature."
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:464
+msgid "Select pages to show the basket."
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:524
+msgid "Successfully Verified..."
+msgstr ""
+
+#: admin/class-one-click-order-re-order-admin.php:528
+msgid "License Verification Failed."
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-help.php:19
+msgid ""
+"Your request is submitted successfully. Our team will respond as soon as "
+"possible."
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-help.php:24
+msgid "Your request is not submitted. Please try again."
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-help.php:36
+msgid "Suggestion or Query"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-help.php:39
+msgid "Enter Suggestion or Query title here"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-help.php:45
+msgid "Enter Suggestion or Query detail here"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-help.php:51
+msgid "Send Suggestion"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-help.php:71
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-help.php:77
+msgid "FAQ"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-license.php:20
+msgid "Enter your License"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-license.php:23
+msgid "This is the License Activation Panel. After purchasing extension from "
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-license.php:25
+msgid "MakeWebBetter"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-license.php:28
+msgid ""
+"you will get the purchase code of this extension. Please verify your "
+"purchase below so that you can use the features of this plugin."
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-license.php:33
+msgid "Purchase Code : "
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-license.php:35
+msgid "Enter your code here."
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-about_us.php:30
+msgid ""
+"Our professional team deals with throughout analysis of the inquiry "
+"published, support team maintains a detailed report on the inquiry extended "
+"by the customer. Then a meeting gets scheduled with our project manager with "
+"who guidance a roadmap gets managed and according to it, work starts off! "
+"Apart from this, you will get 24x7 support service and quick response"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-about_us.php:46
+msgid ""
+"Our team of trendsetters largely comprise of 5+ years of experience holder "
+"professionals from the industry who well know the Knitty-gritty of the "
+"industry, designers, content visualizers, developers and other creative "
+"professionals at large. We have surely spent much time designing great "
+"solutions for your web's smooth functioning all from scratch and thus we "
+"came out as great creators"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-about_us.php:47
+msgid ""
+"In next 20 years, we will try to come out with something more valuable yet "
+"outstanding digital result for the new world which is ready to knock our "
+"doors!"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-about_us.php:52
+msgid "our plans"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-about_us.php:60
+msgid ""
+"We are always trying to help our clients with all possible manners thats why "
+"we are came with monthly/yearly basis plan so purchase a plan now and we "
+"will take care of all things"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-about_us.php:66
+msgid "Monthly/Yearly Plan"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-about_us.php:72
+msgid "our microservices"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-about_us.php:80
+msgid ""
+"We are also provide micro services for taking sort term of services and our "
+"experts will boost your site so please take a look of our micro-services"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-about_us.php:85
+msgid "Check Our Microservices"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-about_us.php:100
+msgid "our featured plugins"
+msgstr ""
+
+#: admin/partials/one-click-order-re-order-admin-about_us.php:127
+msgid "Buy Now"
+msgstr ""

@@ -1,0 +1,385 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .mwb_cpr_highlight{
+  font-weight: bold;
+ }
+
+ /*=====  SOCIAL SHARING BUTTONS CSS  =====*/
+
+.mwb_crp_wrapper_button .google {
+  line-height: 1px;
+}
+
+.mwb_crp_wrapper_button .twitter-share-button {
+  background: #3399ff none repeat scroll 0 0;
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 12px;
+  padding: 1px 12px;
+  text-decoration: none;
+  vertical-align: top;
+  display: inline-block;
+}
+.mwb_crp_wrapper_button  .fb-share-button {
+ background: #4867AA none repeat scroll 0 0;
+ border-radius: 5px;
+ color: #fff;
+ padding: 1px 12px;
+ font-size: 12px;
+ text-decoration: none;
+ vertical-align: top;
+}
+.mwb_crp_wrapper_button .google{
+ display: inline-block; 
+ vertical-align: top;
+}
+.mwb_crp_wrapper_button .mwb_crp_common_class {
+ display: inline-block;
+ margin: 0 7px;
+}
+.mwb_crp_wrapper_button .mwb_wpr_mail_button {
+  background-color: #575757;
+  border-radius: 3px;
+  display: inline-block;
+  height: 21px;
+  padding: 0;
+  text-align: center;
+  vertical-align: top;
+  width: 50px;
+  box-shadow: none;
+}
+.mwb_crp_wrapper_button .mwb_wpr_mail_button img {
+ box-shadow: none;
+ display: inline-block;
+ margin: 3px auto 0;
+ vertical-align: top;
+ width: 18px;
+}
+.mwb_crp_wrapper_button .mwb_wpr_mail_button .mwb_crp_common_class {
+ margin-left: 12px;
+}
+.mwb_crp_btn .twitter-share-button > img {
+ display: inline-block;
+ margin-right: 4px;
+ margin-top: 3px;
+ vertical-align: top;
+ width: 19px;
+ box-shadow:none;
+}
+ /*=====  END of SOCIAL SHARING BUTTONS CSS  =====*/
+ /*========================================
+ =            Modal Custom CSS            =
+ ========================================*/
+ #mwb-cpr-drag {
+  width: auto !important;
+  padding: 0 16px;
+ }
+ #mwb-cpr-drag.mwb-cpr-dragged {
+  right: auto;
+ }
+  #mwb-cpr-drag.ui-draggable-dragging {
+    pointer-events: none;
+  }
+ .mwb_cpr_btn_copy.mwb_tooltip {
+  position: relative;
+ }
+  .mwb_cpr_btn_copy.mwb_tooltip:hover .mwb_tooltiptext{
+    visibility: visible;
+  }
+  .mwb_cpr_btn_copy.mwb_tooltip:hover .mwb_tooltiptext_copied{
+    visibility: hidden;
+  }
+  .mwb_cpr_btn_copy.mwb_copied:hover .mwb_tooltiptext {
+    visibility: hidden;
+  }
+  .mwb_cpr_btn_copy.mwb_copied:hover .mwb_tooltiptext_copied {
+    visibility: visible;
+  }
+ /*=====  End of Modal Custom CSS  ======*/
+ 
+/*=========================================
+=            Guest User Design            =
+=========================================*/
+.mwb_cpr_guest {
+  background-position: right top;
+  background-repeat: no-repeat;
+  padding: 100px 15px;
+  text-align: center;
+  background-size: 290px;
+}
+.mwb_cpr_guest:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+.meb_cpr_guest__content {
+  float:left;
+  width: 50%;
+}
+.mwb_cpr_guest .mwb_cpr_btn_wrapper {
+  display: block;
+  margin-top: 20px;
+}
+.meb_cpr_guest__content-text {
+  color: #333; 
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 32px;
+}
+
+.mdl-cpr-btn {
+    /*background-color: #E85E54 !important;*/
+    color: #ffffff !important;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+    border: none;
+    border-radius: 2px;
+    color: #000;
+    position: relative;
+    height: 36px;
+    min-width: 64px;
+    padding: 0 8px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    overflow: hidden;
+    will-change: box-shadow,transform;
+    -webkit-transition: box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1),color .2s cubic-bezier(.4,0,.2,1);
+    transition: box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1),color .2s cubic-bezier(.4,0,.2,1);
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    line-height: 36px;
+    vertical-align: middle;
+}
+
+/*=====  End of Guest User Design  ======*/
+/*===================================================
+=            Logged In User Popup Design            =
+===================================================*/
+.mwb_cpr_logged_wrapper {
+  color: #333333;
+}
+.mwb_cpr_logged_wrapper .mwb_cpr_refrral_code_copy code {
+  /* background-color: #E85E54; */
+  color: #ffffff;
+  display: block;
+  text-align: left;
+  word-break: break-all;
+  float: left;
+  padding: 3px;
+}
+.mwb_cpr_logged_wrapper .mwb_tooltiptext {
+  background-color: #000000;
+  border-radius: 6px;
+  bottom: -20px;
+  color: #ffffff;
+  font-size: 11px;
+  left: -19px;
+  padding: 5px 0;
+  position: absolute;
+  text-align: center;
+  visibility: hidden;
+  width: 80px;
+  z-index: 1;
+}
+.mwb_cpr_logged_wrapper .mwb_tooltiptext:after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent black transparent;
+}
+.mwb_cpr_logged_wrapper .mwb_cpr_btn_copy {
+  background: transparent;
+  padding: 0;
+}
+.mwb_cpr_copy_btn_wrap {
+  float: left;
+  margin-left: 5px;
+}
+.mwb_cpr_logged_wrapper .mwb-pr-popup-tab-wrapper {
+  margin-top: 15px;
+  text-align: center;
+}
+/*=====  End of Logged In User Popup Design  ======*/
+
+
+/*===================================
+=            Animate CSS            =
+===================================*/
+@-webkit-keyframes fadeInDownBig {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -2000px, 0);
+    -moz-transform: translate3d(0, -2000px, 0);
+    transform: translate3d(0, -2000px, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes fadeInDownBig {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -2000px, 0);
+    -moz-transform: translate3d(0, -2000px, 0);
+    transform: translate3d(0, -2000px, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.fadeInDownBig {
+  -webkit-animation-name: fadeInDownBig;
+  -moz-animation-name: fadeInDownBig;
+  animation-name: fadeInDownBig;
+}
+
+
+@-webkit-keyframes rubberBand {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    -moz-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  30% {
+    -webkit-transform: scale3d(1.25, 0.75, 1);
+    -moz-transform: scale3d(1.25, 0.75, 1);
+    transform: scale3d(1.25, 0.75, 1);
+  }
+
+  40% {
+    -webkit-transform: scale3d(0.75, 1.25, 1);
+    -moz-transform: scale3d(0.75, 1.25, 1);
+    transform: scale3d(0.75, 1.25, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.15, 0.85, 1);
+    -moz-transform: scale3d(1.15, 0.85, 1);
+    transform: scale3d(1.15, 0.85, 1);
+  }
+
+  65% {
+    -webkit-transform: scale3d(0.95, 1.05, 1);
+    -moz-transform: scale3d(0.95, 1.05, 1);
+    transform: scale3d(0.95, 1.05, 1);
+  }
+
+  75% {
+    -webkit-transform: scale3d(1.05, 0.95, 1);
+    -moz-transform: scale3d(1.05, 0.95, 1);
+    transform: scale3d(1.05, 0.95, 1);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    -moz-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+@keyframes rubberBand {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    -moz-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  30% {
+    -webkit-transform: scale3d(1.25, 0.75, 1);
+    -moz-transform: scale3d(1.25, 0.75, 1);
+    transform: scale3d(1.25, 0.75, 1);
+  }
+
+  40% {
+    -webkit-transform: scale3d(0.75, 1.25, 1);
+    -moz-transform: scale3d(0.75, 1.25, 1);
+    transform: scale3d(0.75, 1.25, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.15, 0.85, 1);
+    -moz-transform: scale3d(1.15, 0.85, 1);
+    transform: scale3d(1.15, 0.85, 1);
+  }
+
+  65% {
+    -webkit-transform: scale3d(0.95, 1.05, 1);
+    -moz-transform: scale3d(0.95, 1.05, 1);
+    transform: scale3d(0.95, 1.05, 1);
+  }
+
+  75% {
+    -webkit-transform: scale3d(1.05, 0.95, 1);
+    -moz-transform: scale3d(1.05, 0.95, 1);
+    transform: scale3d(1.05, 0.95, 1);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    -moz-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.rubberBand {
+  -webkit-animation-name: rubberBand;
+  animation-name: rubberBand;
+}
+
+#mwb-cpr-drag {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+/*=====  End of Animate CSS  ======*/
+
+
+
+/*=======================================
+=            Media Query CSS            =
+=======================================*/
+@media screen and (max-width: 767px) {
+  .mwb_cpr_guest {
+    background-image: none !important;
+    border-top: 3px solid #E85E54;
+    padding: 40px 15px;
+  }
+  .mwb_cpr_guest .meb_cpr_guest__content {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 520px) {
+  .mwb_cpr_logged_wrapper .mwb_cpr_refrral_code_copy code {
+    margin-left: 0;
+  }
+  #mwb_cpr_copy {
+    padding-right: 50px;
+  }
+  .mwb_cpr_copy_btn_wrap {
+    right: 0px;
+  }
+}
+
+/*=====  End of Media Query CSS  ======*/

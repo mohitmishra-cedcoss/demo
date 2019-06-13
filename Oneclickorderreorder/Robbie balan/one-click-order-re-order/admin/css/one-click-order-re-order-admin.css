@@ -1,0 +1,542 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+ .toplevel_page_one_click_order_re_order_menu #wpbody-content {
+   width: 98% !important;
+ }
+
+ .toplevel_page_one_click_order_re_order_menu #wpbody-content .notice,
+ .toplevel_page_one_click_order_re_order_menu #wpbody-content .updated {
+   margin: 20px 0px 20px;
+ }
+
+ .one-click-order-re-order-wrap .form-table tr {
+   display: block;
+   padding-left: 10px;
+ }
+
+ .one-click-order-re-order-license-sec {
+  background: #ffffff;
+  padding: 0px 15px;
+  border: solid 1px #e6e6e6;
+  margin-top: 25px;
+}
+
+.one-click-order-re-order-license-sec p {
+  font-size: 13.8px
+} 
+
+.one-click-order-re-order-license-sec label {
+  font-size: 13.5px
+}
+
+#one-click-order-re-order-license-activate {
+	margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+#one-click-order-re-order-ajax-loading-gif {
+  display: none;
+  position: relative;
+  top: 5px;
+}
+
+#one-click-order-re-order-license-key {
+	width: 100%;
+  max-width: 350px;
+  margin-top: 10px;
+}
+
+#one-click-order-re-order-thirty-days-notify p {
+  font-size: 14px;
+}
+
+#one-click-order-re-order-day-count {
+  color: #c40b0b;
+}
+/*============================
+=            help            =
+============================*/
+.one_click_order_re_order_help-link-wrap::after,
+.one_click_order_re_order_help_wrapper .one_click_order_re_order_help_input-wrap::after {
+  clear: both;
+  content: "";
+  display: block;
+}
+.one_click_order_re_order_help-link-wrap {
+  text-align: center;
+  width: 100%;
+}
+.one-click-order-re-order-suggestion {
+  background-color: #f1f1f1;
+  border-radius: 10px;
+  box-shadow: -2px 2px 12px 0 #cccccc;
+  padding: 10px 10px 30px;
+  max-width: 550px;
+  /*width: 100%;*/
+}
+.one_click_order_re_order_help_wrapper ul.one_click_order_re_order_help-link-wrap li {
+  background-color: #1872dc;
+  border-radius: 4px;
+  display: inline-block;
+  max-width: 235px;
+  padding: 20px;
+  position: relative;
+  width: 100%;
+}
+.one_click_order_re_order_help_wrapper ul.one_click_order_re_order_help-link-wrap li:nth-of-type(1) {
+  margin-right: 10px;
+}
+
+
+.one_click_order_re_order_icon {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+.one_click_order_re_order_help-link {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.one_click_order_re_order_doc_video_section {
+  background-color: #f1f1f1;
+  box-shadow: -2px 2px 12px 0 #cccccc;
+  display: inline-block;
+  padding: 20px;
+  width: 50%;
+  margin-top: 25px;
+}
+.one_click_order_re_order_form {
+  display: inline-block;
+  padding: 25px;
+  vertical-align: top;
+  width: 40%;
+}
+
+.one_click_order_re_order_help_wrapper ul.one_click_order_re_order_help-link-wrap li .one_click_order_re_order_help-link:hover {
+  background-color: #ffffff;
+  color: #889cb7;
+  transition: all 0.3s ease 0s;
+}
+.one_click_order_re_order_help_wrapper {
+  display: block;
+  padding-bottom: 40px;
+}
+.one-click-order-re-order-suggestion > h2 {
+  font-size: 30px;
+  margin-bottom: 71px;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 30px;
+}
+.one_click_order_re_order_help_wrapper .one_click_order_re_order_help_input-wrap {
+  display: table;
+  width: 100%;
+}
+.one_click_order_re_order_help_wrapper .one_click_order_re_order_help_input-wrap label {
+  font-weight: bold;
+}
+.one_click_order_re_order_help_wrapper .one_click_order_re_order_help_input, .one_click_order_re_order_help_wrapper .one_click_order_re_order_help_input-wrap label {
+  padding: 10px;
+}
+.one_click_order_re_order_help_wrapper .one_click_order_re_order_help_form-control {
+  width: 100%;
+}
+.one_click_order_re_order_help_wrapper .one_click_order_re_order_help_form-control.text-field{
+  height: 36px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.one_click_order_re_order_help-send-suggetion-button-wrap {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.one_click_order_re_order_help-send-suggetion-button{
+  background-color: #a0a0a0!important;
+  border-color: #a0a0a0!important;
+  border-radius: 34px!important;
+  box-shadow: none!important;
+  font-size: 16px!important;
+  font-weight: bold!important;
+  height: auto!important;
+  padding: 2px 20px!important;
+  text-shadow: none!important;
+  color: #ffffff!important;
+}
+/*=====  End of help  ======*/
+/*==================================
+=            common css            =
+==================================*/
+.one_click_order_re_order_help_wrapper, .mwb-main-form {
+  background-color: #ffffff;
+  float: left;
+  padding-top: 20px;
+  width: calc(100% - 340px);
+}
+.clear::after {
+  clear: both;
+  content: "";
+  display: block;
+}
+.one_click_order_re_order_mail_success_messege,.one_click_order_re_order_mail_unsuccess_messege {
+  color: #109010;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 30px;
+  text-align: center;
+}
+.one_click_order_re_order_mail_unsuccess_messege {
+  color: #ff0000;
+}
+/*=====  End of common css  ======*/
+/*===============================
+=            sidebar            =
+===============================*/
+.one-click-order-re-order-sidebar {
+  float: left;
+  padding-left: 30px;
+  padding-right: 10px;
+  width: 300px;
+}
+.one-click-order-re-order-sidebar-inner {
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  padding: 10px;
+  /*height: 350px;*/
+  overflow: auto;
+}
+.one-click-order-re-order-sidebar-inner img {
+  display: block;
+  margin: 0 auto;
+}
+.one_click_order_re_order_help_wrapper.one_click_order_re_order_help_second_wrapper {
+  width: 100%;
+}
+
+/*================================================
+=            standard plugin help css            =
+================================================*/
+.one_click_order_re_order_video_section {
+  display: inline-block;
+  margin: 0 5px;
+  max-width: 273px;
+}
+.one_click_order_re_order_video_content {
+  text-align: center;
+  width: 100%;
+  margin: 30px 0;
+}
+.one_click_order_re_order_vedio_feature_name {
+  font-size: 20px;
+  color: #000;
+  padding-top: 10px;
+  font-weight: d;
+}
+.one_click_order_re_order_help_input-wrap {
+  margin-bottom: 40px;
+}
+
+/*=====  End of standard plugin help css  ======*/
+/*================================
+=            about us            =
+================================*/
+.one_click_order_re_order_about_logo_desc{
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.one_click_order_re_order_about_wrap {
+  margin: 30px 0;
+}
+.one_click_order_re_order_about_logo{
+  width: 300px;
+  display: inline-block;
+}
+.one_click_order_re_order_about_desc {
+  color: #000000;
+  display: inline-block;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 89%;
+}
+.one_click_order_re_order_about_full_desc p, .one_click_order_re_order_about_more_desc p {
+  color: #000000;
+  font-size: 17px;
+  line-height: 30px;
+  margin: 30px 0;
+}
+.one_click_order_re_order_subscription_wrap h3 {
+  color: #000000;
+  font-size: 24px;
+  margin-top: 40px;
+  text-transform: uppercase;
+}
+.one_click_order_re_order_featured_wrap h3{
+  color: #000000;
+  font-size: 24px;
+  margin-top: 40px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+.one_click_order_re_order_subscription {
+  background: rgba(0, 0, 0, 0) linear-gradient(to right, #7a28ff 0px, #00a1ff 100%) repeat scroll 0 0;
+  color: #ffffff;
+  display: inline-block;
+  padding: 30px;
+  width: 65%;
+}
+.one_click_order_re_order_subscription > span {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.one_click_order_re_order_featured_plugin {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  box-sizing: border-box;
+  display: inline-block;
+  width: 23.4%;
+  margin-right: 20px;
+  min-height: 480px;
+  vertical-align: top;
+  margin-bottom: 26px;
+}
+.one_click_order_re_order_featured_plugin:nth-of-type(4n) {
+  margin-right: 0;
+}
+.one_click_order_re_order_desc{
+  padding: 20px;
+}
+.one_click_order_re_order_desc:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+.one_click_order_re_order_image {
+  width: 100%;
+}
+.one_click_order_re_order_subscription_wrap {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  box-sizing: border-box;
+  display: inline-block;
+  margin-bottom: 30px;
+  padding: 20px;
+  width: 48%;
+  margin-right: 20px;
+  vertical-align: top;
+}
+.one_click_order_re_order_subscription_wrap > p {
+  font-size: 16px;
+  margin-bottom: 44px;
+  color: #000000;
+}
+.one_click_order_re_order_subscription_wrap:nth-child(2) {
+  margin-right: 30px;
+}
+.one_click_order_re_order_title {
+  color: #000000;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+  margin-top: 0;
+}
+.one_click_order_re_order_price{
+ color: #000000;
+ font-size: 22px;
+ font-weight: bold;
+ float: left;
+}
+.one_click_order_re_order_buy_now {
+  background: #3071FF;
+  float: right;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 9px 30px;
+  text-transform: uppercase;
+}
+.one_click_order_re_order_buy_now a{
+ color: #ffffff;
+ text-decoration: none;
+}
+.one_click_order_re_order_logo {
+  max-width: 200px;
+  width: 100%;
+}
+.one_click_order_re_order_star {
+  max-width: 16px;
+  margin-bottom: 16px;
+}
+/*=====  End of about us  ======*/
+
+
+/*=====================================
+=            Media Queries            =
+=====================================*/
+
+@media screen and (max-width:992px){
+  .one_click_order_re_order_subscription_wrap{
+    width: 100%;
+  }
+   .one_click_order_re_order_featured_plugin{
+    width: 31%;
+   }
+   .one_click_order_re_order_featured_plugin:nth-of-type(3n) {
+      margin-right: 0;
+    }
+    .one_click_order_re_order_featured_plugin:nth-of-type(4n) {
+      margin-right: 15px;
+    }
+}
+@media screen and (max-width:767px){
+  .one_click_order_re_order_video_section{
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 60px;
+  }
+
+  .one_click_order_re_order_help_wrapper {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    text-align: center;
+    width: 100%;
+  }
+  .one_click_order_re_order_doc_video_section,.one_click_order_re_order_form{
+    width: auto;
+  }
+  .one_click_order_re_order_help_wrapper .one_click_order_re_order_help_form-control {
+    width: 100%;
+  }
+  .one_click_order_re_order_help_wrapper, .mwb-main-form {
+    background-color: #ffffff;
+    float: none;
+    width: 94%
+  }
+  .one-click-order-re-order-sidebar {
+    float: none;
+    padding-left: 0;
+    width: 97%;
+    margin-top: 20px;
+  }
+  .one_click_order_re_order_help_wrapper ul.one_click_order_re_order_help-link-wrap li .one_click_order_re_order_help-link {
+    font-size: 17px;
+    padding: 13px;
+    width: 200px;
+  }
+  .one_click_order_re_order_help_wrapper {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .one-click-order-re-order-main-section{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .one_click_order_re_order_featured_plugin{
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .one_click_order_re_order_about_logo_desc{
+    display: block;
+  }
+  .one_click_order_re_order_about_logo {
+    display: block;
+    text-align: center;
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 1100px) and (min-width: 767px) {
+  .one_click_order_re_order_help_wrapper ul.one_click_order_re_order_help-link-wrap li {
+    float: none;
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  .one_click_order_re_order_help_wrapper {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    text-align: center;
+    width: 100%;
+  }
+  .one_click_order_re_order_doc_video_section,.one_click_order_re_order_form{
+    width: auto;
+  }
+}
+.mwb_cng_hide {
+  display: none;
+}
+.mwb_ocor_row {
+  padding: 20px 0;
+  width: 100%;
+}
+.mwb_ocor_main_wrapper .mwb_ocor_row .mwb_ocor_columns.mwb_ocor_label_wrap {
+  float: left;
+  width: 25%;
+}
+.mwb_ocor_main_wrapper .mwb_ocor_row .mwb_ocor_columns.mwb_ocor_columns_content {
+  float: left;
+  width: 75%;
+  margin-top: 10px;
+}
+.mwb_ocor_columns.mwb_ocor_label_wrap > label {
+  font-weight: bold;
+}
+.mwb_ocor_general_settings_wrap .mwb_ocor_columns .select2-container.select2-container-multi {
+  width: 50%;
+}
+.mwb_ocor_row .spinner {
+  float: none;
+}
+.mwb_ocor_attachment_action {
+  margin: 10px 0;
+  text-align: center;
+  width: 140px;
+}
+.mwb_ocor_attachment_wrapper {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+  max-width: 115px;
+}
+.mwb_ocor_attachment_wrapper > img {
+  width: 50%;
+}
+.mwb_ocor_attachment_selector {
+  background-color: #999999;
+  border: none;
+  border-radius: 50%;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  height: 25px;
+  line-height: 20px;
+  position: absolute;
+  right: -10px;
+  text-align: center;
+  top: -10px;
+  width: 25px;
+}
+.wramvp_img_email_image{
+  background-color: #fff;
+ border-radius: 6px;
+ float: right;
+ margin-right: 35px;
+ position: relative;
+}
+@media screen and (max-width: 550px) {
+  .one_click_order_re_order_help_wrapper ul.one_click_order_re_order_help-link-wrap li {
+    float: none;
+    margin-bottom: 15px;
+    width: 100%;
+  }
+
+}
+/*=====  End of Media Queries  ======*/

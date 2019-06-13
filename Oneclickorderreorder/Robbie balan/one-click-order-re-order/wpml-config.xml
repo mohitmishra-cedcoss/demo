@@ -1,0 +1,8 @@
+<wpml-config>
+	<admin-texts>
+		<key name="one_click_order_re_order_enable_plug">
+			<key name="button_text" />
+			<key name="button_remove_text" />
+		 </key>
+	</admin-texts>
+</wpml-config>

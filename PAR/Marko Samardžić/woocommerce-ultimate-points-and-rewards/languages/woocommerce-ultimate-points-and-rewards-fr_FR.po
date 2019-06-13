@@ -1,0 +1,2643 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Ultimate Points And Rewards 2.0.4\n"
+"POT-Creation-Date: 2019-01-05 13:34+0530\n"
+"PO-Revision-Date: 2019-01-05 13:34+0530\n"
+"Last-Translator: \n"
+"Language-Team: makewebbetter <webmaster@makewebbetter.com>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-ultimate-points-and-rewards/mwb-wpr-update.php:155
+msgid "Plugin Description"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/mwb-wpr-update.php:159
+msgid "Plugin Change Log"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/woocommerce-ultimate-points-and-rewards.php:134
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/woocommerce-ultimate-points-and-rewards.php:193
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:171
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:217
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:240
+msgid "You will get "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/woocommerce-ultimate-points-and-rewards.php:193
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:217
+msgid " points for SignUp"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/woocommerce-ultimate-points-and-rewards.php:287
+msgid ""
+"Woocommerce is not activated, Please activate Woocommerce first to install "
+"WooCommerce Ultimate Points and Rewards."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/woocommerce/checkout/form-coupon.php:62
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2930
+msgid "Apply Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/woocommerce/checkout/form-coupon.php:63
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:1587
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:1593
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3004
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3018
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3075
+msgid " Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:176
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:191
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:144
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:136
+msgid "Enable"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:176
+msgid "Enable Points Per Product"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:180
+msgid "Enter the Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:183
+msgid "Please enter the number of points for this product "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:187
+msgid "Do not allow to purchase through points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:187
+msgid "Do not allow to purchase purchase this product thorugh points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:191
+msgid "Enable Purchase through points only"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:195
+msgid "Enter the Points For Purchase"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:198
+msgid "Please enter the number of points for purchase this product "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:222
+msgid "Points and Rewards"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:326
+#, php-format
+msgid "Please enter in decimal (%s) format without thousand separators."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:328
+#, php-format
+msgid ""
+"Please enter in monetary decimal (%s) format without thousand separators and "
+"currency symbols."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:329
+msgid "Please enter in country code with two capital letters."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:330
+msgid "Please enter in a value less than the regular price."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:334
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:878
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:905
+msgid "Import"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:335
+msgid "Export"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:364
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:608
+msgid "Please enter valid points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:365
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:183
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:331
+msgid "Enter the Name of the Level"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:366
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:175
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:323
+msgid "Enter Level"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:367
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:137
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:190
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:337
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:40
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_purchase_points_only.php:101
+msgid "Enter Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:368
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:223
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:369
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:422
+msgid "Select Product Category"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:369
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:185
+msgid "Remove"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:371
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:259
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:400
+msgid "Select Product"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:372
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:297
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:413
+msgid "Enter Discount (%)"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:373
+msgid "Fields cannot be empty"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:374
+msgid "Please Enter the Name of the Level"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:375
+msgid "Please Enter valid Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:376
+msgid "Please select a category"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:377
+msgid "Please select a product"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:378
+msgid "Please enter valid discount"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:379
+msgid "Points are assigned successfully!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:380
+msgid "Enter Some Valid Points!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:381
+msgid "Points are removed successfully!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:382
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:214
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:360
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:114
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:185
+msgid "Days"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:383
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:215
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:361
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:115
+msgid "Weeks"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:384
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:216
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:362
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:116
+msgid "Months"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:385
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:217
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:363
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:117
+msgid "Years"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:386
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:204
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:351
+msgid "Expiration Period"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:388
+msgid "Please enter Remark"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:430
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:434
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:443
+msgid "WooCommerce Points And Rewards Manager"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:430
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:434
+msgid "Points And Rewards Manager"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:443
+msgid "Activate Points And Rewards Manager"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:480
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:516
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:575
+msgid "Fail due to an error"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1163
+msgid "Membership Expiration Alert!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1164
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1172
+msgid "Your User Level "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1164
+msgid " is going to expired on date of "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1164
+msgid ""
+" You can upgrade your level or can renew that level again after expiration."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1171
+msgid "No Longer Membership User"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1172
+msgid ""
+" has been expired. You can upgrade your level to another or can renew that "
+"level again "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1207
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1216
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:341
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:343
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:500
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:443
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:537
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:879
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:881
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:1442
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2461
+msgid "Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1292
+msgid "Enter Point"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1295
+msgid "Product Point"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1311
+msgid "Enter Point for purchase"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1314
+msgid "Product Point for purchase"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1383
+msgid "Redeem your Points before it will get expired!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1401
+msgid "Hurry!! Points Expiration has just a few days"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1437
+msgid "Points has been Expired!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_admin_manager.php:1500
+msgid "Successfully Verified"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/mwb_wpr_points_expiration_email_template.php:18
+msgid "Thank You"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/class-mwb-wpr-custom-widget.php:19
+msgid "Total Point:"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/class-mwb-wpr-custom-widget.php:20
+#: woocommerce-ultimate-points-and-rewards/includes/admin/class-mwb-wpr-custom-widget.php:68
+msgid "User Level:"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/class-mwb-wpr-custom-widget.php:21
+msgid "Expiration Date:"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/class-mwb-wpr-custom-widget.php:62
+msgid "Title:"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/class-mwb-wpr-custom-widget.php:65
+msgid "Total Point Text:"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/class-mwb-wpr-custom-widget.php:71
+msgid "Expiration Text:"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:94
+msgid "Activate the License Key before "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:97
+msgid ""
+" days of activation - You might risk losing data by then, and you will not "
+"be able to use the plugin !"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:97
+msgid " Activate now "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:107
+msgid "Points and Rewards Settings"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:109
+msgid "General"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:110
+msgid "Coupon Settings"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:111
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:860
+msgid "Points Table"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:112
+msgid "Points Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:113
+msgid "Membership"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:114
+msgid "Assign Product Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:115
+msgid "Product Purchase Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:116
+msgid "Other Settings"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:117
+msgid "Points Expiration"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:118
+msgid "Addons"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/woocommerce-ultimate-points-and-rewards-settings.php:122
+msgid "Add License"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:23
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:63
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:41
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:99
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:89
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:45
+msgid "Settings saved."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:25
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:91
+msgid "Dismiss this notice."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:119
+msgid "Redeem Points Conversion"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:123
+msgid ""
+"Enter the redeem points for coupons.(i.e., how many points will be "
+"equivalent to the amount)"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:129
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:164
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:481
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:215
+msgid "Points "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:137
+msgid "Enable Per Currency Points Conversion"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:141
+msgid "Check this box if you want enable per currency points conversion."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:145
+msgid "Allow per currency points conversion"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:152
+msgid "Per "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:152
+msgid " Points Conversion"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:156
+msgid ""
+"Enter the redeem price for points.(i.e., how much amounts will be equivalent "
+"to the points)"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:170
+msgid "Enter Minimum Points Required For Generating Coupon"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:174
+msgid ""
+"The minimum points customer requires for converting their points to coupon."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:184
+msgid "Enable Custom Convert Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:188
+msgid ""
+"Check this box to allow customers to convert their custom points to coupon "
+"out of their total points."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:192
+msgid ""
+"Enable to allow customers to convert some of the points to coupon out of "
+"their given total points."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:198
+msgid "Individual Use"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:202
+msgid ""
+"Check this box if the Coupon cannot be used in conjunction with other "
+"Coupons."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:206
+msgid "Allow Coupons to use Individually"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:213
+msgid "Free Shipping"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:217
+msgid ""
+"Check this box if the coupon grants free shipping. A free shipping method "
+"must be enabled in your shipping zone and be set to require \"a valid free "
+"shipping coupon\" (see the \"Free Shipping Requires\" setting)."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:221
+msgid "Allow Coupons on Free Shipping"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:228
+msgid "Coupon Length"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:232
+msgid "Enter Coupon length excluding the prefix.(Minimum length is set to 5)"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:241
+msgid "Coupon Expiry After Days"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:245
+msgid ""
+"Enter number of days after which Coupon will get expired. Keep value \"1\" "
+"for one day expiry when order is completed. Keep value \"0\" for no expiry."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:253
+msgid "Minimum Spend"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:257
+msgid ""
+"This field allows you to set the minimum spend (subtotal, including taxes) "
+"allowed to use the coupon."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:265
+msgid "Maximum Spend"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:269
+msgid ""
+"This field allows you to set the maximum spend (subtotal, including taxes) "
+"allowed when using the Coupon."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:277
+msgid "Coupon No of time uses"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:281
+msgid "How many times this coupon can be used before Coupon is void."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_coupon_settings.php:292
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:440
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:178
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:540
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:883
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:265
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:47
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_purchase_points_only.php:48
+msgid " Point Assigned Successfully to All Products"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:49
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:60
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:81
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:65
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:101
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:43
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:101
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:47
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_purchase_points_only.php:50
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_purchase_points_only.php:61
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_purchase_points_only.php:82
+msgid "Dismiss this notices."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:58
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_purchase_points_only.php:59
+msgid " Please enter some points !"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:79
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_purchase_points_only.php:80
+msgid "Points are removed Successfully from All Products"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:91
+msgid "This is the global setting for assigning points to all products at once"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:96
+msgid "Global Product Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:100
+msgid ""
+"This is the global setting for Product Purchase Points, check this if you "
+"want to assign points to all products at once or uncheck if you want to "
+"remove assigned points from all products at once."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:104
+msgid "Enable Global Product Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:110
+msgid "Enter Points For All Products"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:114
+msgid "Entered Points are assigned to All Products ."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:126
+msgid "Save"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:131
+msgid ""
+"This is the category wise setting for assigning points to product of "
+"categories, enter some valid points for assigning, leave blank fields for "
+"removing assigned points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:136
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_purchase_points_only.php:100
+msgid "Categories"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:138
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_purchase_points_only.php:102
+msgid "Assign/Remove"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_assign_pro_points.php:154
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_purchase_points_only.php:118
+msgid "Submit"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_wpr_membership_log_table.php:36
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:36
+msgid "User Name"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_wpr_membership_log_table.php:37
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:37
+msgid "User Email"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_wpr_membership_log_table.php:38
+msgid "User Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_wpr_membership_log_table.php:39
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:152
+msgid "Level"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_wpr_membership_log_table.php:104
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:132
+msgid "Delete"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_wpr_membership_log_table.php:233
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:915
+msgid "points_log_list_table"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_wpr_membership_log_table.php:237
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:919
+msgid "Search Users"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:99
+msgid ""
+"Membership Expiration For Old Membership Users has been Updated "
+"Successfully. "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:113
+msgid ""
+"Click on this button if you want to set 6 months expiry for all users who "
+"had  upgraded their user level to any \"Membership Level\" but do not have "
+"any expiration for that level,else they would not be able to use related "
+"discounts."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:114
+msgid " Expiry for Old Users"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:129
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:137
+msgid "Enable Membership"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:133
+msgid "Check this box to enable the Membership Feature"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:138
+msgid "Membership Log"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:144
+msgid "Exclude Sale Products"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:148
+msgid "Check this box to do not apply the membership discount on sale products"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:152
+msgid "Exclude Sale Products for Membership Discount"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:159
+msgid "Create Member"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:179
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:327
+msgid "Entered text will be name of the level for membership"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:194
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:341
+msgid "Entered points need to be reached for this level"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:208
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:355
+msgid "Select the days,week,month or year for expiartion of current level"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:227
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:373
+msgid "Select"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:263
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:404
+msgid ""
+"Product of selected category will get displayed in Select Product Section"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:301
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:417
+msgid "Entered Discount will be applied on above selected products"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:432
+msgid "Add Another"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_membership_settings.php:433
+msgid ""
+"Please do not change the \"Level Name\" once it will be saved, as it become "
+"the key for the Membership User"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_license_verify.php:10
+msgid "Woocommerce Ultimate Points and Rewards"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_license_verify.php:14
+msgid ""
+"This is the License Activation Panel. After purchasing plugin from "
+"Codecanyon you will get the purchase code of this plugin. Please verify your "
+"purchase below so that you can use feature of this plugin before 30 days of "
+"Activation."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_license_verify.php:21
+msgid "Enter Purchase Code"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:38
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:843
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:454
+msgid "Total Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:39
+msgid "Choose +/-"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:41
+msgid "Enter Remark"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:42
+msgid "Action"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:61
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:117
+msgid "View Point Log"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:62
+msgid "View Coupon Detail"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:96
+msgid "Update"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:332
+msgid "User Coupon Details"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:344
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:346
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:446
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:540
+msgid "Coupon Code"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:347
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:349
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:449
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:543
+msgid "Coupon Amount"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:350
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:352
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:452
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:546
+msgid "Amount Left"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:353
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:355
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:455
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:549
+msgid "Expiry"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:388
+msgid "No Coupons Generated Yet."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:391
+msgid "Go Back"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:400
+msgid "User Point Log Details"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:409
+msgid "Date & Time"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:412
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:17
+msgid "Point Status"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:415
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:20
+msgid "Activity"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:424
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:439
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:31
+msgid "Signup Event"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:431
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:446
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:34
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:45
+msgid "Registration Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:454
+msgid "Coupon Generation"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:464
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:64
+msgid "Coupon Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:472
+msgid "Assigned Product Point"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:481
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:82
+msgid "Product purchase Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:490
+msgid "Order Total Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:500
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:99
+msgid "Product Conversion Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:508
+msgid "Product Review Point"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:518
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:119
+msgid "Comment Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:527
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:537
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:183
+msgid "Membership Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:547
+msgid "Referral Earns"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:561
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:142
+msgid "Reference Points by "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:571
+msgid "Referral Purchase Point"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:581
+msgid "Product purchased by Reffered User Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:590
+msgid "Admin Updates"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:596
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:198
+msgid "Updated By Admin"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:610
+msgid "Product has been purchased using points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:619
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:221
+msgid "Purchased through Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:628
+msgid "Deduction of points for return request"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:638
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:239
+msgid "Deduct Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:646
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:258
+msgid "Return Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:656
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:812
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:419
+msgid "Returned Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:664
+msgid "Deduct Order Total Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:673
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:277
+msgid "Deduct Per Currency Spent Point"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:681
+msgid "Shared with"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:695
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:301
+msgid "Shared to "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:704
+msgid "Receives Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:719
+msgid "Received Points by "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:727
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:822
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:332
+msgid "Points Applied on Cart"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:737
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:341
+msgid "Points Used on Cart Subtotal"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:745
+msgid "Expired Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:755
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:359
+msgid "Get Expired"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:764
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:370
+msgid "Order Points Deducted due to Cancelation of Order"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:774
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:793
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:379
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:399
+msgid "Deducted Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:783
+msgid "Assigned Points Deducted due to Cancelation of Order"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:802
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:410
+msgid "Points Returned due to Cancelation of Order"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:832
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:440
+msgid "Product Purchased by Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:853
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:463
+msgid "No Points Generated Yet."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:873
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:900
+msgid "Import Users"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:876
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_table.php:903
+msgid "Import existing users and assign them with Sign Up Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:63
+msgid "Enable Points Expiration "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:67
+msgid ""
+"Check this, If you want to set the expiration period for the Rewarded Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:71
+msgid "Enable Point Expiration"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:77
+msgid "Show Points expiration on Myaccount Page"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:81
+msgid ""
+"Check this, If you want to show the expiration period for the Rewarded "
+"Points on Myaccount Page"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:85
+msgid "Expiartion willl get displayed just below the Total Point"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:91
+msgid "Set the Required Threshold"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:95
+msgid ""
+"Set the threshold for points expiration, The expiration period will be "
+"calculated when the threshold has been reached"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:105
+msgid "Set Expiration Time"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:109
+msgid ""
+"Set the Time-Period for \"When the points needs to get expired?\" It will "
+"calculated over the above Threshold Time"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:123
+msgid "Email Notification(Re-Notify Days)"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:127
+msgid "Set the number of days beofre the Email will get sent out"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:137
+msgid ""
+"Enter the Message for notifying the user about they have reached their "
+"Threshold"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:141
+msgid ""
+"Entered Message will appears inside the Email Template for notifying the "
+"Customer that they have reached the Threshold now they should redeem their "
+"Points before it will get expired"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:145
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:158
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:117
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:130
+msgid ""
+"Use these shortcodes for providing an appropriate message for your customers "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:145
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:158
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:117
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:130
+msgid " for their Total Points "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:145
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:158
+msgid " for the Expiration Date "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:150
+msgid "Re-notify Message before some days"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:154
+msgid ""
+"Entered Message will appears inside the Email Template for notifying the "
+"Customer that they have left just some days more before the expiration"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:163
+msgid "Message when Points has been Expired"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_point_expiration.php:167
+msgid ""
+"Entered Message will appears inside the Email Template for notifying the "
+"Customer that the Points has been expired"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:47
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:121
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:82
+msgid "My Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:56
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:131
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:1991
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2146
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2675
+msgid "Use your Points for purchasing this Product"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:61
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:136
+msgid "Product Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:148
+msgid "Check this box to enable the plugin."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:152
+msgid "Enable WooCommerce Points and Rewards"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:159
+msgid "Enable Signup Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:163
+msgid "Check this box to enable the Signup Points."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:167
+msgid "Enable Signup Points for Rewards"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:173
+msgid "Enter Signup Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:177
+msgid "The points which the new customer will get after signup."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:187
+msgid "Enable Comments Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:191
+msgid "Check this box to enable the Comments Points when comment is approved."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:195
+msgid "Enable Comments Points for Rewards"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:201
+msgid "Enter Comments Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:205
+msgid ""
+"The points which the new customer will get after their comments are approved."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:215
+msgid "Enable Referral Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:219
+msgid ""
+"Check this box to enable the Referral Points when customer invites another "
+"customers."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:223
+msgid "Enable Referral Points for Rewards."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:229
+msgid "Enter Referral Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:233
+msgid ""
+"The points which the customer will get when they successfully invites given "
+"number of customers."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:243
+msgid "Minimum Referrals Required"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:247
+msgid ""
+"Minimum number of referrals required to get referral points when the new "
+"customer sign ups."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:257
+msgid "Assign Only Referral Purchase Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:261
+msgid ""
+"Check this if you want to assign only purchase points to referred user not "
+"referral points."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:265
+msgid "Make sure Referral Points & Referral Purchase Points should be enable "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:271
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:279
+msgid "Enable Referral Purchase Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:275
+msgid "Check this box to enable the referral purchase points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:285
+msgid "Enter Referral Purchase Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:289
+msgid ""
+"Entered point will assign to that user by which another user reffered from "
+"refrral link and purchase some products "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:299
+msgid "Enable Referral Purchase Limit"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:303
+msgid ""
+"Check this box to provide some limitation for referral purchase point, where "
+"you can set the number of orders for refree"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:307
+msgid "Enable limit for Referral Purchase Option"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:313
+msgid "Set the Number of Orders for Referral Purchase Limit"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:317
+msgid ""
+"Enter the number of orders, Refree would get assigned only till the limit(no "
+"of orders) would be reached"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:327
+msgid "Enable Social Links"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:331
+msgid "Check this box to share the Referral Link on social media"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:335
+msgid "Enable Social Media Sharing."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:341
+msgid "Select Social Links"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:345
+msgid "Check these boxes to share referral link"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:349
+msgid "Facebook"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:352
+msgid "Twitter"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:355
+msgid "Google+"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:358
+msgid "Email"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:364
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:457
+msgid "Enter Text"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:368
+msgid "Entered text will append before the Total Number of Point"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:372
+msgid "Entered text will get displayed on points page."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:379
+msgid "Enter Ways to Gain Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:383
+msgid "Entered ways will get displayed on points page."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:385
+msgid "Use these shortcodes for providing ways to gain points at front end."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:389
+msgid " for Referral Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:389
+msgid " for Comment Points "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:389
+msgid " for Per currency spent points and"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:389
+msgid " for per currency spent price"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:394
+msgid "Enable Purchase through Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:398
+msgid "Check this box to enable puchasing products through points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:402
+msgid "Purchase Products through Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:408
+msgid "Enable restrictions for above setting"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:412
+msgid ""
+"Check this box if you want to allow some of the products for purchasing "
+"through points not all"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:416
+msgid "Allow some of the products for purchasing through points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:426
+msgid ""
+"Select those categories which you want to allow to customers for purchase "
+"that product through points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:461
+msgid "Entered text will get displayed on Single Product Page"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:465
+msgid "Entered text will get displayed on single product page"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:471
+msgid "Purchase Points Conversion"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:475
+msgid ""
+"Entered points will be converted to price.(i.e., how many points will be "
+"equivalent to the product price)"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:489
+msgid "Points Tab Text"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:493
+msgid "Entered text will be replaced the Points tab at Myaccount Page"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:497
+msgid "Points Tab replaced with your text"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:503
+msgid "Assigned Product Points Text"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:507
+msgid ""
+"Enter the message you want to display for those product who have assigned "
+"with some of the Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:511
+msgid "Product Point text can be replaced with entered text"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:517
+msgid "Set Preferences"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:521
+msgid ""
+"What you want to choose when you have enabled \"Per currency Spent Point\" "
+"and a product with some \"Points\" assigned ?"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:525
+msgid "Only Product Assigned Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:528
+msgid "Only Per Currency Spent Point"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_general-settings.php:531
+msgid "Both"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_addon.php:19
+msgid "Suggestion for Points and Reward Addon"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_addon.php:20
+msgid "Suggestion for "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_addon.php:169
+msgid "Suggestion"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_addon.php:183
+msgid "Addon Name: "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_addon.php:185
+msgid "Suggestion: "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:25
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:101
+msgid "Custom Points Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:26
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:102
+msgid "Signup Points Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:27
+msgid "product Purchase Points Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:28
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:104
+msgid "Comment Points Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:29
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:105
+msgid "Order Amount Points Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:30
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:106
+msgid "Referral Points Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:32
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:107
+msgid "Referral Purchase Points Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:33
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:108
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:516
+msgid "Upgrade Membership Level Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:34
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:109
+msgid "Product Purchased Through Points Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:35
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:110
+msgid "Your points is updated and your total points is "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:36
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:37
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:38
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:39
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:40
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:41
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:51
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:111
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:112
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:113
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:114
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:115
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:116
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:126
+msgid "You have received "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:36
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:37
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:38
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:39
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:40
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:41
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:111
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:112
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:113
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:114
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:115
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:116
+msgid " points and your total points is "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:43
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:117
+msgid "Your User Level has been Upgraded to "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:43
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:117
+msgid ". And Now You will get some offers on some products."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:44
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:118
+msgid "Product Purchased Point "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:44
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:118
+msgid ""
+" has been deducted from your points on purchasing, and your Total Point is "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:45
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:47
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:49
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:53
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:120
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:122
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:124
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:129
+msgid "Your "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:45
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:47
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:120
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:122
+msgid ""
+" has been deducted from your total points as you have requested for your "
+"refund, and your Total Point is "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:46
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:48
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:119
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:121
+msgid "Your Points has been Deducted"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:49
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:124
+msgid ""
+" has been returned to your point account as you have requested for your "
+"refund, and your Total Point is "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:50
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:123
+msgid "Your Points has been Returned"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:51
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:126
+msgid " by your one of the friend having Email Id is "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:51
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:126
+msgid " and your Total Point is "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:52
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:125
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2547
+msgid "Received Points Successfully!!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:53
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:129
+msgid " Points has been deducted from your account, now your Total Point is "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:54
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:128
+msgid "Points Deducted!!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:103
+msgid "Product Purchase Points Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:140
+msgid "Check this box to enable the points notification."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:144
+msgid "Enable Points Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:152
+msgid "Points table's Custom Points Notification Settings"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:159
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:211
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:263
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:315
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:367
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:419
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:471
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:523
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:575
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:627
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:679
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:731
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:783
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:835
+msgid "Email Subject"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:163
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:215
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:267
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:319
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:371
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:423
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:475
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:527
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:579
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:631
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:683
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:735
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:787
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:839
+msgid "Input subject for email."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:173
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:225
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:277
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:329
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:381
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:433
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:485
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:537
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:589
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:641
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:693
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:745
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:797
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:849
+msgid "Email Description"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:175
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:227
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:279
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:331
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:383
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:435
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:487
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:539
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:591
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:643
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:695
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:747
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:799
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:851
+msgid "Enter Email Description for user."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:180
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:232
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:284
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:336
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:388
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:440
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:492
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:544
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:596
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:648
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:700
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:752
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:804
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:856
+msgid "Use "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:180
+msgid " shortcode in place of Total Points, "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:180
+msgid " shortcode in place of username and"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:180
+msgid "In this section donot use"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:180
+msgid " shortcode "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:204
+msgid "Signup Points Notification Settings"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:232
+msgid " shortcode to be placed Signup Points dynamically, "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:232
+msgid " shortcode in place of username"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:232
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:284
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:388
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:492
+msgid " in place of Referral points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:232
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:284
+msgid " in place of comment points "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:232
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:284
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:492
+msgid " in place of Per Currency spent points and "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:232
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:284
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:336
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:388
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:440
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:492
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:596
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:804
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:856
+msgid " shortcode in place of Total Points."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:256
+msgid "Product Purchase Points Notification Settings"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:284
+msgid " shortcode in place of Product Purchase Points "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:284
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:336
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:388
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:440
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:544
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:596
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:648
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:700
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:752
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:804
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:856
+msgid " shortcode in place of username "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:308
+msgid "Comment Points Notification Settings"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:336
+msgid " shortcode in place of comment points "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:336
+msgid " in place of Referral points "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:336
+msgid " in place of per currency spent points and "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:360
+msgid "Order Amount Points Notification Settings(Per "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:360
+msgid " Spent Points)"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:388
+msgid " shortcode in place of per currency spent points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:388
+msgid "in place of comment points and "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:412
+msgid "Referral Points Notification Settings"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:440
+msgid " shortcode in place of Referral Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:440
+msgid " in place of per currency spent points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:440
+msgid " in place of comment points and "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:464
+msgid "Referral Purchase Points Notification Settings"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:492
+msgid " shortcode in place of Referral Purchase Points "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:492
+msgid " in place of comment points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:544
+msgid " shortcode in place of User Level "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:568
+msgid "Purchase Products through Points Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:596
+msgid " shortcode in place of product purchasing points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:620
+msgid "Deduct Assigned Point Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:648
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:700
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:856
+msgid " shortcode in place of points which has been deducted "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:648
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:700
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:752
+msgid " shortcode in place of Total Remaining Points."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:672
+msgid "Deduct 'Per Currency Spent' Point Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:724
+msgid "Return  'Product Purchase through Point' Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:752
+msgid " shortcode in place of points which has been returned "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:776
+msgid "Point Sharing Notification"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:804
+msgid " shortcode in place of points which has been received "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:804
+msgid " shortcode in place of email id of Sender"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_points_notification_settings.php:828
+msgid "Points On Cart Sub-Total"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:71
+msgid "Shortcodes"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:74
+msgid ""
+"Use shortcode [MYCURRENTUSERLEVEL] for displaying current Membership Level "
+"of Users"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:75
+msgid "Use shortcode [MYCURRENTPOINT] for displaying current Points of Users"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:76
+msgid ""
+"Use shortcode [SIGNUPNOTIFICATION] for displaying notification anywhere on "
+"site"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:81
+msgid ""
+"Enter the text which you want to display with shortcode [MYCURRENTPOINT]"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:85
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:90
+msgid "Entered text will get displayed along with [MYCURRENTPOINT] shortcode"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:95
+msgid ""
+"Enter the text which you want to display with shortcode [MYCURRENTUSERLEVEL]"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:99
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:104
+msgid ""
+"Entered text will get displayed along with [MYCURRENTUSERLEVEL] shortcode"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:109
+msgid "Enter Thankyou Order Message When your customer gain some points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:113
+msgid ""
+"Entered Message will appears at thankyou page when any order item is having "
+"some of the points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:117
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:130
+msgid " for product points "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:122
+msgid ""
+"Enter Thankyou Order Message When your customer spent some of the points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:126
+msgid ""
+"Entered Message will appears at thankyou page when any item has been "
+"purchased through points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:135
+msgid "Disable Points Conversion"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:139
+msgid ""
+"Check this box if you want to disable the coupon generation functionality "
+"for customers"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:143
+msgid "Disable Points Conversion Fields"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:149
+msgid "Point Sharing"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:153
+msgid ""
+"Check this box if you want to let your customers to send some of the points "
+"from his/her account to any other user"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:157
+msgid "Enable Point Sharing"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:163
+msgid "Static Referral Link"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:167
+msgid "Check this box if you want to make your referral link permanent."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:171
+msgid "Make Referral Link Permanent"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:177
+msgid "Referral Link Expiry"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:181
+msgid ""
+"Set the number of days after that the system will not able to remember the "
+"reffered user anymore"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:191
+msgid "Redemption Over Cart Sub-Total"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:195
+msgid ""
+"Check this box if you want to let your customers to redeem their earned "
+"points for the cart subtotal, there would be no relation with product "
+"purchase through point feature"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:199
+msgid "No relation with Purchase Product Through Point Feature"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:205
+msgid "Conversion rate for Cart Sub-Total Redemption"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:209
+msgid ""
+"Enter the redeem points for cart sub-total. (i.e., how many points will be "
+"equivalent to your currency)"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:223
+msgid "Enable apply points during checkout"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:227
+msgid ""
+"Check this box if you want that customer can apply also apply points on "
+"checkout"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:231
+msgid "Allow customers to apply points during checkout also"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:237
+msgid "Make \"Per Product Redemption\" Readonly"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:241
+msgid ""
+"Check this box if you want to make the redemption box readonly(where end "
+"user can enter the number of points they want to redeem)"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:245
+msgid "Readonly for Enter Number of Points for Redemption"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:251
+msgid "Select Color Notification Bar"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_other_setting.php:255
+msgid "You can also choose the color for your Notification Bar."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/admin/settings/templates/mwb_purchase_points_only.php:95
+msgid ""
+"This is the category wise setting for purchase product from points only, "
+"enter some valid points for assigning, leave blank fields for removing "
+"assigned points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:111
+msgid "Get Expired: "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:122
+msgid "Ways to gain more points:"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:140
+msgid "Membership List"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:144
+msgid "Your level has been upgraded to "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:155
+msgid "Required Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:165
+msgid "View Benefits"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:171
+#, php-format
+msgid "% discount on below products or categories"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:251
+msgid "Upgrade User Level"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:253
+msgid "Upgrade Your User Level: "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:256
+msgid "Select Roles"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:274
+msgid "Upgrade Level"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:281
+msgid "Points Conversion"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:284
+msgid "Points Conversion: "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:285
+msgid " points = "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:303
+msgid "Enter your points:"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:308
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:317
+msgid "Generate Coupon"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:314
+msgid "Convert Points To Coupon"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:323
+msgid "Minimum points required to convert points to coupon is "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:337
+msgid "Coupon Details"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:421
+msgid "Referral Link"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:427
+msgid "Copy"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:433
+msgid "Minimum "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:433
+msgid " invites are required to get a reward of "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:433
+msgid " points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:437
+msgid "Current Invites: "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:444
+msgid "Invite Users to get some reward points on their purchasing"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:456
+msgid "Tweet"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:466
+msgid "Share"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:496
+msgid "Share Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:499
+msgid "Enter Email"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_template.php:501
+msgid "GO"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:240
+msgid " points for product review"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:303
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:317
+msgid "You cant purchase that much quantity for Free"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:412
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:505
+msgid "Coupon generation error."
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:484
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:577
+msgid "Your points are converted to coupon"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:585
+msgid "Points cannot be greater than your current points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:610
+msgid ""
+"Do you really want to upgrade your user level as this process will deduct "
+"the required points from your account?"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:611
+msgid "Minimum Points Require To Convert Points To Coupon is "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:612
+msgid "Number of Point you had entered will get deducted from your Account"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:617
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2960
+msgid "Please enter some valid points!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:709
+msgid "Points And Reward - User ID#"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:772
+msgid "No Expiry"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:1450
+msgid "Purchased By Points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:1578
+msgid "Earn"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2191
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2213
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2235
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2298
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2324
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2350
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2744
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2775
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2800
+msgid "Spend "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2191
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2213
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2235
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2298
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2324
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2350
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2744
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2775
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2800
+msgid " Points for Purchasing this Product for Single Quantity"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2201
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2310
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2335
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2361
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2752
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2785
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2808
+msgid "You need extra "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2201
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2223
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2245
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2310
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2335
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2361
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2752
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2785
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2808
+msgid " Points for get this product for free"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2223
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2245
+msgid "You need extra  "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2464
+msgid "Purchasing Option"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2479
+msgid "Error during Point Sharing. Try Again!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2548
+msgid "You have received point [RECEIVEDPOINT]"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2562
+msgid "Points assigned succesfuly"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2568
+msgid "Entered Point should be less than your Total Point"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2573
+msgid "Please Enter Valid Email"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2579
+msgid "Please Enter Email"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2585
+msgid "Please fill Required feilds"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2659
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2841
+msgid "Error during various variation handling. Try Again!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2694
+msgid "Successfully Assigned!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2946
+msgid "Can not redeem!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:2957
+msgid "Custom Point has been applied Successfully!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3002
+msgid "Here is the Discount Rule for applying your points to Cart sub-total"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3016
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3073
+msgid "Place Order And Earn Something in Return"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3018
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3075
+msgid "Conversion Rate: "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3050
+msgid "Failed to Remove Cart Disocunt"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3054
+msgid "Successfully Removed Cart Disocunt"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3342
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3364
+msgid "You must Logged in to purchase this product"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3348
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3370
+msgid "You don't have sufficiant point to purchase this product"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_public_manager.php:3391
+msgid "You have already used your points, Now you don't have much!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:9
+msgid " Point Log Table"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:14
+msgid "Date"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:55
+msgid "Coupon Creation"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:73
+msgid "Points Earned via Particular Product"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:93
+msgid "Points earned on Order Total"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:110
+msgid "Points earned via giving review"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:129
+msgid "Points earned via referring someone"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:151
+msgid "Points earned by the puchase has been made by referrals"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:164
+msgid "Product purchase by Reffered User Points "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:174
+msgid ""
+"Points deducted becuase you have entered to the membership level and may use "
+"more benefit"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:193
+msgid "Free rewards you earned becuase of loyality"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:212
+msgid "Deduction of points as you has purchased your product"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:230
+msgid "Deduction of points for your return request"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:249
+msgid "Points returned successfully on your return request"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:268
+msgid "Points deducted successfully on your return request"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:287
+msgid "Points deducted successfully as you have shared your points"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:309
+msgid "Points received successfully as someone has shared"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:323
+msgid "Received Points via "
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:350
+msgid "Oops!! Points are expired!"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:390
+msgid "Assigned Points Deducted due Cancelation of Order"
+msgstr ""
+
+#: woocommerce-ultimate-points-and-rewards/includes/public/mwb_wpr_points_log_template.php:431
+msgid "Points deducted for purchasing the product"
+msgstr ""

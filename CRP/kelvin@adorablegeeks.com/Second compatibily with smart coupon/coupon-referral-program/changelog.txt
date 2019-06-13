@@ -1,0 +1,15 @@
+*** Coupon Referal Program ***
+
+2019-02-20 - version 1.1.0
+  * New   - Shortcode For Referral Link.
+  * New   - Shortcode For Referral Button.
+  * New   - Position  For Referral Button.
+  * New   - Select Page For Referral Button.
+  * Tweak - Improved CSS
+
+2019-02-12 - version 1.0.1
+ * Fix - Save Referral discount.
+
+2019-02-05 - version 1.0.0
+ * First Release.
+
